@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\ConsoleApplication21111\ConsoleApplication.csproj'" />
-    <option name="defaultScopeName" value="File '...\ConsoleApplication21111\ConsoleApplication.csproj'" />
-    <option name="SEARCH_SCOPE" value="File '...\ConsoleApplication21111\ConsoleApplication.csproj'" />
+    <option name="customScope" value="File '...\WebApplication23\ClientApp\boot.tsx'" />
+    <option name="defaultScopeName" value="File '...\WebApplication23\ClientApp\boot.tsx'" />
+    <option name="SEARCH_SCOPE" value="File '...\WebApplication23\ClientApp\boot.tsx'" />
   </component>
 </application>
