@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="XBAP" description="XBAP" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\WINDOWS\System32\PresentationHost.exe" />
+      <option name="PARAMETERS" value="-debug  &quot;$ProjectFileDir$\WpfBrowserApp2\bin\Debug\WpfBrowserApp2.xbap&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
