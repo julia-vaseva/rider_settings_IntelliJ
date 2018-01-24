@@ -1,0 +1,39 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/RiderProjects/mobile-samples/Tasky/TaskySharedCode/TodoDatabaseADO.cs" timestamp="1516793865111">
+        <mark key="[" line="29" column="44" />
+        <mark key="]" line="29" column="45" />
+        <mark key="." line="29" column="44" />
+        <mark key="^" line="29" column="41" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>h</text>
+      </register>
+      <register name="-" type="4">
+        <text>h</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
