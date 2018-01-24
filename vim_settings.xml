@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/RiderProjects/Example/MyParser/Library.fs" timestamp="1516794159286">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/RiderProjects/mobile-samples/Tasky/TaskySharedCode/TodoDatabaseADO.cs" timestamp="1516793865111">
         <mark key="[" line="29" column="44" />
         <mark key="]" line="29" column="45" />
@@ -33,6 +36,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
