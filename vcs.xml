@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/xamarin/mobile-samples.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dmitry-kolesov/TestAutocadPlugin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Julia.Vaseva\RiderProjects" />
